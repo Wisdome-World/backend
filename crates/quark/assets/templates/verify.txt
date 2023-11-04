@@ -1,0 +1,6 @@
+Almost there!
+To complete your sign up, we just need to verify your email.
+
+Please navigate to: {{url}}
+
+Sent by Wisdome

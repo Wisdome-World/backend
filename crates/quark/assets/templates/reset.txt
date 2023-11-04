@@ -1,0 +1,5 @@
+You requested a password reset, if you did not perform this action you can safely ignore this email.
+
+Please navigate to: {{url}}
+
+Sent by Wisdome
